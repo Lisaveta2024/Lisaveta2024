@@ -1,0 +1,82 @@
+﻿  FileListView.cpp
+  FileManager2.cpp
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\IPanel.h(117,16): warning C4858: Отбрасывание возвращаемого значения: This member function returns a bool indicating whether the container is empty and has no other effects. It is not useful to call this member function and discard the return value. Use the 'clear()' member function if you want to erase all elements..
+  (компиляция исходного файла "FileManager2.cpp")
+  
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\IPanel.h(438,16): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "FileManager2.cpp")
+  
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\FileListView.h(85,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "FileManager2.cpp")
+  
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\FileListView.h(134,33): warning C4267: =: преобразование из "size_t" в "SHORT"; возможна потеря данных
+  (компиляция исходного файла "FileManager2.cpp")
+  
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\FileListView.h(139,89): warning C4267: =: преобразование из "size_t" в "SHORT"; возможна потеря данных
+  (компиляция исходного файла "FileManager2.cpp")
+  
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\Control.h(22,16): warning C4858: Отбрасывание возвращаемого значения: This member function returns a bool indicating whether the container is empty and has no other effects. It is not useful to call this member function and discard the return value. Use the 'clear()' member function if you want to erase all elements..
+  (компиляция исходного файла "FileManager2.cpp")
+  
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\Control.h(44,16): warning C4858: Отбрасывание возвращаемого значения: This member function returns a bool indicating whether the container is empty and has no other effects. It is not useful to call this member function and discard the return value. Use the 'clear()' member function if you want to erase all elements..
+  (компиляция исходного файла "FileManager2.cpp")
+  
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\Control.h(103,16): warning C4858: Отбрасывание возвращаемого значения: This member function returns a bool indicating whether the container is empty and has no other effects. It is not useful to call this member function and discard the return value. Use the 'clear()' member function if you want to erase all elements..
+  (компиляция исходного файла "FileManager2.cpp")
+  
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\Control.h(125,16): warning C4858: Отбрасывание возвращаемого значения: This member function returns a bool indicating whether the container is empty and has no other effects. It is not useful to call this member function and discard the return value. Use the 'clear()' member function if you want to erase all elements..
+  (компиляция исходного файла "FileManager2.cpp")
+  
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\Control.h(184,16): warning C4858: Отбрасывание возвращаемого значения: This member function returns a bool indicating whether the container is empty and has no other effects. It is not useful to call this member function and discard the return value. Use the 'clear()' member function if you want to erase all elements..
+  (компиляция исходного файла "FileManager2.cpp")
+  
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\Control.h(206,16): warning C4858: Отбрасывание возвращаемого значения: This member function returns a bool indicating whether the container is empty and has no other effects. It is not useful to call this member function and discard the return value. Use the 'clear()' member function if you want to erase all elements..
+  (компиляция исходного файла "FileManager2.cpp")
+  
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\Control.h(239,28): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "FileManager2.cpp")
+  
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\Control.h(246,28): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "FileManager2.cpp")
+  
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\DialogBox.h(92,16): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "FileManager2.cpp")
+  
+  DialogBox.cpp
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\IPanel.h(117,16): warning C4858: Отбрасывание возвращаемого значения: This member function returns a bool indicating whether the container is empty and has no other effects. It is not useful to call this member function and discard the return value. Use the 'clear()' member function if you want to erase all elements..
+  (компиляция исходного файла "DialogBox.cpp")
+  
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\IPanel.h(438,16): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "DialogBox.cpp")
+  
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\Control.h(22,16): warning C4858: Отбрасывание возвращаемого значения: This member function returns a bool indicating whether the container is empty and has no other effects. It is not useful to call this member function and discard the return value. Use the 'clear()' member function if you want to erase all elements..
+  (компиляция исходного файла "DialogBox.cpp")
+  
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\Control.h(44,16): warning C4858: Отбрасывание возвращаемого значения: This member function returns a bool indicating whether the container is empty and has no other effects. It is not useful to call this member function and discard the return value. Use the 'clear()' member function if you want to erase all elements..
+  (компиляция исходного файла "DialogBox.cpp")
+  
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\Control.h(103,16): warning C4858: Отбрасывание возвращаемого значения: This member function returns a bool indicating whether the container is empty and has no other effects. It is not useful to call this member function and discard the return value. Use the 'clear()' member function if you want to erase all elements..
+  (компиляция исходного файла "DialogBox.cpp")
+  
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\Control.h(125,16): warning C4858: Отбрасывание возвращаемого значения: This member function returns a bool indicating whether the container is empty and has no other effects. It is not useful to call this member function and discard the return value. Use the 'clear()' member function if you want to erase all elements..
+  (компиляция исходного файла "DialogBox.cpp")
+  
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\Control.h(184,16): warning C4858: Отбрасывание возвращаемого значения: This member function returns a bool indicating whether the container is empty and has no other effects. It is not useful to call this member function and discard the return value. Use the 'clear()' member function if you want to erase all elements..
+  (компиляция исходного файла "DialogBox.cpp")
+  
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\Control.h(206,16): warning C4858: Отбрасывание возвращаемого значения: This member function returns a bool indicating whether the container is empty and has no other effects. It is not useful to call this member function and discard the return value. Use the 'clear()' member function if you want to erase all elements..
+  (компиляция исходного файла "DialogBox.cpp")
+  
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\Control.h(239,28): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "DialogBox.cpp")
+  
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\Control.h(246,28): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "DialogBox.cpp")
+  
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\DialogBox.h(92,16): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "DialogBox.cpp")
+  
+  utils.cpp
+  Создание кода...
+C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\FileManager2\FileManager2.cpp(146): warning C4715: MyAppClass::isDialogBoxCanClose: значение возвращается не при всех путях выполнения
+  FileManager2.vcxproj -> C:\Users\lizaz\OneDrive\Рабочий стол\Академия\FileManager5\x64\Debug\FileManager2.exe
